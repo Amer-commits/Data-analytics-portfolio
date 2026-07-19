@@ -1,8 +1,8 @@
-# data_analytics_portfolio
+# Data-analytics-portfolio
 
-welcome to my data analytics portfolio!
+Welcome to my data analytics portfolio!
 
-hi, i'm Amer 
+Hi, i'm Amer 
 
 i'm currently learning data analytics through the tutedude data analyst course and documenting my learning journey on github 
 
