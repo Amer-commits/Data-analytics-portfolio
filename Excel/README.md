@@ -27,17 +27,52 @@ This folder contains my Excel learning journey and practice work completed as pa
   - Wildcard Matching
   - Search Modes
 
-## Skills Learned
-- Workbook Management
-- Data Formatting
-- Formula Writing
-- Mathematical Calculations
-- Text Manipulation
-- Logical Analysis
-- Date & Time Calculations
-- Data Lookup Techniques
+###  Module 5 – XLOOKUP
+- XLOOKUP as a replacement for VLOOKUP
+- Handling #N/A errors and Approximate Match
+- Wildcard Matching in XLOOKUP
+- Search Modes
 
-## Status
-✅ Completed Modules 3 & 4
+###  Module 6 – Data Tools
+- Sorting
+- Filtering
+- Data Validation
+- Text to Columns
+- Remove Duplicates
+- Advanced Filter
+- Formatting Data
+- Excel Tables
+
+###  Module 7 – Excel Charts
+- Importance of Data Visualization
+- Chart Elements
+- Creating Charts
+- Bar & Column Charts
+- Chart Formatting
+- Line Charts
+- Area Charts
+- Pie & Doughnut Charts
+- Scatter (XY) Charts
+- Waterfall Charts
+- Sparklines
+
+## Skills Gained
+
+- Excel Workbook Management
+- Formula Writing
+- Mathematical & Logical Functions
+- Date & Time Functions
+- Lookup Functions (VLOOKUP, HLOOKUP, INDEX-MATCH, XLOOKUP)
+- Data Validation
+- Data Cleaning
+- Sorting & Filtering
+- Working with Excel Tables
+- Data Visualization
+- Creating Professional Charts
+
+## Current Status
+
+✅ Completed Modules 3–7
+  
 
 More Excel projects and practice files will be added as I continue learning.
