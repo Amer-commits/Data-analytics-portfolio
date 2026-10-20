@@ -2,7 +2,7 @@
 
 Hi, I'm Amer!
 
-I'm learning Data Analytics through the Tutedude Data Analyst course and building practical projects to improve my skills.
+I'm developing my data analytics skills through coursework, self-learning , and hands-on projects.
 
 ## Skills I'm Learning
 
@@ -23,7 +23,7 @@ I'm learning Data Analytics through the Tutedude Data Analyst course and buildin
 
 ## My Goal
 
-To become a Data Analyst by gaining practical experience, solving real-world problems, and continuously improving my skills.
+To become a Data Analyst by applying my knowledge to practical projects, solving problems, and continuously improving my skills.
 
 Thanks for visiting my portfolio!
 
