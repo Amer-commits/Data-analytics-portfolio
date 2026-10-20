@@ -1,78 +1,65 @@
 # Microsoft Excel
 
-This folder contains my Excel learning journey and practice work completed as part of the Tutedude Data Analyst course.
+This folder showcases my Excel learning journey, practice exercises, and projects completed while developing my data analytics skills.
 
 ## Topics Covered
 
-### Module 3 - Excel Fundamentals
-- Basics
-- Worksheet Basics
-- Data Formats
-- Data Handling (Cut, Copy & Paste)
-- Saving and Printing Basics
+### Excel Fundamentals
 
-### Module 4 - Essential Formulas
-- Basic Formula Operations
-- Mathematical Functions
-- Text Functions
-- Logical Functions
-- Date & Time Functions
-- Lookup Functions
-  - VLOOKUP
-  - HLOOKUP
-  - INDEX-MATCH
-  - XLOOKUP
-  - Handling #N/A Errors
-  - Approximate Match
-  - Wildcard Matching
-  - Search Modes
+* Workbook and Worksheet Basics
+* Data Formats and Cell Formatting
+* Data Handling and Management
+* Saving, Printing, and Worksheet Management
 
-###  Module 5 – XLOOKUP
-- XLOOKUP as a replacement for VLOOKUP
-- Handling #N/A errors and Approximate Match
-- Wildcard Matching in XLOOKUP
-- Search Modes
+### Formulas and Functions
 
-###  Module 6 – Data Tools
-- Sorting
-- Filtering
-- Data Validation
-- Text to Columns
-- Remove Duplicates
-- Advanced Filter
-- Formatting Data
-- Excel Tables
+* Basic Mathematical Operations
+* Mathematical and Statistical Functions
+* Text Functions
+* Logical Functions
+* Date and Time Functions
+* Lookup Functions: VLOOKUP, HLOOKUP, INDEX-MATCH, and XLOOKUP
+* Exact Match and Approximate Match
+* Wildcard Matching and Search Modes
+* Handling #N/A Errors
 
-###  Module 7 – Excel Charts
-- Importance of Data Visualization
-- Chart Elements
-- Creating Charts
-- Bar & Column Charts
-- Chart Formatting
-- Line Charts
-- Area Charts
-- Pie & Doughnut Charts
-- Scatter (XY) Charts
-- Waterfall Charts
-- Sparklines
+### Data Cleaning and Management
 
-## Skills Gained
+* Sorting and Filtering
+* Data Validation
+* Text to Columns
+* Removing Duplicates
+* Advanced Filter
+* Excel Tables
+* Formatting and Organizing Data
 
-- Excel Workbook Management
-- Formula Writing
-- Mathematical & Logical Functions
-- Date & Time Functions
-- Lookup Functions (VLOOKUP, HLOOKUP, INDEX-MATCH, XLOOKUP)
-- Data Validation
-- Data Cleaning
-- Sorting & Filtering
-- Working with Excel Tables
-- Data Visualization
-- Creating Professional Charts
+### Charts and Data Visualization
 
-## Current Status
+* Chart Elements and Formatting
+* Bar and Column Charts
+* Line and Area Charts
+* Pie and Doughnut Charts
+* Scatter (XY) Charts
+* Waterfall Charts
+* Sparklines
+* Combo charts
 
-✅ Completed Modules 3–7
-  
+## Skills Developed
 
-More Excel projects and practice files will be added as I continue learning.
+* Excel Workbook Management
+* Formula Writing and Problem-Solving
+* Data Cleaning and Validation
+* Lookup Functions
+* Sorting and Filtering
+* Data Analysis using Excel Functions
+* PivotTables and Charts
+* Data Visualization and Reporting
+
+## Current Progress
+
+* Completed foundational Excel learning and practice exercises.
+* Built six Excel practice projects.
+* Continuing to strengthen my Excel skills through hands-on practice.
+
+More projects and exercises will be added as I continue learning.
+
