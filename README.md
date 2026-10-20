@@ -1,38 +1,30 @@
-# Data-analytics-portfolio
+# Data Analytics Portfolio
 
-Welcome to my data analytics portfolio!
+Hi, I'm Amer!
 
-Hi, i'm Amer 
+I'm learning Data Analytics through the Tutedude Data Analyst course and building practical projects to improve my skills.
 
-i'm currently learning data analytics through the tutedude data analyst course and documenting my learning journey on github 
+## Skills I'm Learning
 
-## 🔥Skills i'm currently learning
-- microsoft excel
-- SQL
-- Python
-- Numpy
-- Pandas
-- Data visualization (Matplotlib,seaborn,plotly)
-- Power BI
-- Statistics
+* Microsoft Excel
+* SQL
+* Python
+* NumPy and Pandas
+* Data Visualization
+* Power BI
+* Statistics
 
-## 📂 Repository Structure
+## Projects
 
-- 📁 Excel
-- 📁 SQL
-- 📁 Python
-- 📁 NumPy
-- 📁 Pandas
-- 📁 Data Visualization
-- 📁 Power BI
-- 📁 Projects
+* Excel Projects
+* SQL Projects
+* Python Projects
+* Power BI Projects
 
-## 🎯 My Goal
+## My Goal
 
-My goal is to become a Data Analyst by building real-world projects, improving my problem-solving skills, and maintaining a professional GitHub portfolio.
+To become a Data Analyst by gaining practical experience, solving real-world problems, and continuously improving my skills.
 
+Thanks for visiting my portfolio!
 
----
-
-Thank you for visiting my portfolio!
  
